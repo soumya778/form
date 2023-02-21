@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: grey;
+}
+.small{
+    font-size: 0.7em;
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+
+}
+.apply_box{
+    max-width: 600px;
+    padding: 20px;
+    background-color:white;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 4px 3px 5px coral salmon ghostwhite;
+    border-radius: 10px;
+
+}
+label,input{
+    padding-bottom: 2px;
+}
